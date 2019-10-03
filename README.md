@@ -12,7 +12,7 @@
 2. Second approach is to run the application with docker container
 
 	# Build docker image with application
-		docker build -t instagram-getter:0.0.1
+		docker build -t instagram-getter:0.0.1 .
 	# Run docker image
 		docker run -p 8080:8080 instagram-getter:0.0.1
 
