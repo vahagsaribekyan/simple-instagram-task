@@ -4,8 +4,10 @@
 
 1. To start the app locally you need to have NodeJS installed on your machine
 
-	# First run 'npm install'
-	# Second run 'npm start'
+	# Install dependencies
+		npm install
+	# Run the application
+		npm start
 
 2. Second approach is to run the application with docker container
 
