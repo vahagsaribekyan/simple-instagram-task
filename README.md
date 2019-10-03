@@ -14,5 +14,5 @@
 	# Build docker image with application
 		docker build -t instagram-getter:0.0.1
 	# Run docker image
-		docker run instagram-getter:0.0.1
+		docker run -p 8080:8080 instagram-getter:0.0.1
 
