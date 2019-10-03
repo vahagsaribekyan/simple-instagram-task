@@ -1,0 +1,23 @@
+{
+  "name": "simple-instagram-task",
+  "version": "1.0.0",
+  "description": "Simple service which returns user information for the given userId",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vahagsaribekyan/simple-instagram-task.git"
+  },
+  "author": "vsaribekyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vahagsaribekyan/simple-instagram-task/issues"
+  },
+  "homepage": "https://github.com/vahagsaribekyan/simple-instagram-task#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "instagram-web-api": "^2.0.0"
+  }
+}
