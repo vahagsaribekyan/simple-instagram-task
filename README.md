@@ -1,11 +1,11 @@
-# This repository contains simple NodeJS ervice which returns some information(followers, likes, etc...) about specified user of Instagram
+# This repository contains simple NodeJS service which returns some information(followers, likes, etc...) about specified user of Instagram
 
 ## Run commands
 
-1. To start the app locally you need to install have NodeJS installed on your machine
+1. To start the app locally you need to have NodeJS installed on your machine
 
-	. First run 'npm install'
-	. Second run 'npm start'
+	# First run 'npm install'
+	# Second run 'npm start'
 
 2. Second approach is to run the application with docker container
 
