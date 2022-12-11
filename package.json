@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/vahagsaribekyan/simple-instagram-task#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "instagram-web-api": "^2.0.0",
     "swagger-ui-express": "^4.1.1",
     "yamljs": "^0.3.0"
